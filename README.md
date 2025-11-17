@@ -10,10 +10,10 @@ Sigue estos pasos para preparar el entorno de trabajo:
 3. **Activar el ambiente vitual**:
    
   En Windows:
-    <nombre del ambiente>\Scripts\activate
+    <nombre_del_entorno>\Scripts\activate
    
   En macOS / UNIX:
-    source <nombre del ambiente>/bin/activate
+    source <nombre_del_entorno>/bin/activate
     
 5. **selecionar una kernel para podes usar la yupiter notebook
 6. **elegir la kernerl con el mismo nombre que el ambiente virtual
