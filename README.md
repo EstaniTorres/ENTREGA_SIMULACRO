@@ -8,6 +8,7 @@ Sigue estos pasos para preparar el entorno de trabajo:
    python -m venv <nombre_del_entorno>
    
 3. **Activar el ambiente vitual**:
+   
   En Windows:
     <nombre del ambiente>\Scripts\activate
    
