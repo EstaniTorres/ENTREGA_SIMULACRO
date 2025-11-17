@@ -17,5 +17,6 @@ Sigue estos pasos para preparar el entorno de trabajo:
     
 5. **selecionar una kernel para podes usar la yupiter notebook**
 6. **elegir la kernerl con el mismo nombre que el ambiente virtual**
-7. ** Instalar dependencias necesarias**:
+7. **Instalar dependencias necesarias**:
+   
    pip install -r requirements.txt
