@@ -1,6 +1,6 @@
 ### Clonar el repositorio
 
-git clone [<URL_DEL_REPOSITORIO>](https://github.com/EstaniTorres/ENTREGA_TPE.git)
+git clone https://github.com/EstaniTorres/ENTREGA_TPE.git
 
 cd ENTREGA_TPE
 
