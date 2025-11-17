@@ -1,7 +1,8 @@
 ### Clonar el repositorio
 
-git clone <URL_DEL_REPOSITORIO>
-cd <nombre_del_repositorio>
+git clone [<URL_DEL_REPOSITORIO>](https://github.com/EstaniTorres/ENTREGA_TPE.git)
+
+cd ENTREGA_TPE
 
 ## Configuración del Entorno
 Sigue estos pasos para preparar el entorno de trabajo:
