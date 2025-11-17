@@ -7,7 +7,7 @@ Sigue estos pasos para preparar el entorno de trabajo:
 2. **Crear un entorno virtual (venv)** para utilizar Jupyter Notebook:  
    python -m venv <nombre_del_entorno>
    
-3. **Activar el ambiente vitual:
+3. **Activar el ambiente vitual**:
   En Windows:
     <nombre del ambiente>\Scripts\activate
    
