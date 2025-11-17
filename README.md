@@ -2,7 +2,9 @@
 
 git clone https://github.com/EstaniTorres/ENTREGA_TPE.git
 
-cd ENTREGA_TPE
+cd ENTREGA_TPE //entra a la carpeta del repositorio
+
+code . //abre la carpeta en el editor de codigo
 
 ## Configuración del Entorno
 Sigue estos pasos para preparar el entorno de trabajo:
